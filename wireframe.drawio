@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T07:33:42.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.7" etag="S6rBSMWxcP4xk7MQlULt" type="github"><diagram id="yqhHKjv8DTa1UdCs9VWj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-27T07:49:16.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XKnu85fI-s5VogR-fACB" version="14.2.7" type="github">
+  <diagram id="yqhHKjv8DTa1UdCs9VWj" name="Page-1">
+    <mxGraphModel dx="679" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q_aD0TMkDNw_w8qsBwWm-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="90" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="q_aD0TMkDNw_w8qsBwWm-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="130" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q_aD0TMkDNw_w8qsBwWm-3" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;&lt;b&gt;Milano Fashion Week&amp;nbsp;&lt;/b&gt;&lt;br&gt;23 Febbraio 2021&lt;br&gt;ore 9:00&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="q_aD0TMkDNw_w8qsBwWm-2">
+          <mxGeometry y="-10" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q_aD0TMkDNw_w8qsBwWm-4" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;&lt;b&gt;Roma Moda Donna&lt;/b&gt;&lt;br&gt;1 Marzo 2021&lt;br&gt;ore 17:00&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="q_aD0TMkDNw_w8qsBwWm-2">
+          <mxGeometry y="80" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="q_aD0TMkDNw_w8qsBwWm-5" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;&lt;b&gt;Milano Vogue Fashion Night Out&amp;nbsp;&lt;/b&gt;&lt;br&gt;22 Marzo 2021&lt;br&gt;ore 20:00&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="q_aD0TMkDNw_w8qsBwWm-2">
+          <mxGeometry y="145" width="190" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
